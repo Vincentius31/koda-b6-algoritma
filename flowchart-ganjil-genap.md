@@ -1,8 +1,8 @@
 ```mermaid
 flowchart TD
     id1((Start))
-    id2["A"]
-    id3[/"A = Masukan angka"/]
+    id2[/"A"/]
+    id3["A = Masukan angka"]
     id4{A % 2 = 1}
     id5[/Bilangan Genap/]
     id6[/Bilangan Ganjil/]
@@ -12,5 +12,4 @@ flowchart TD
     id1 --> id2 --> id3 --> id4 -- yes --> id5
     id4 -- no --> id6
     id5 & id6 --> id7
-
 ```
