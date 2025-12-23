@@ -16,9 +16,9 @@
 flowchart TD
 idStart(("Start"))
 idInput[/"Input: suhuCelcius"/]
-idFarenheit["suhuFarenheit == (9/5) * suhuCelcius + 32"]
-idReamur["suhuReamur == (4/5) * suhuCelcius"]
-idKelvin["suhuKelvin == suhuCelcius + 273.15"]
+idFarenheit["suhuFarenheit = (9/5) * suhuCelcius + 32"]
+idReamur["suhuReamur = (4/5) * suhuCelcius"]
+idKelvin["suhuKelvin = suhuCelcius + 273.15"]
 idOutput[/"Output: suhuFarenheit, suhuReamur, suhuKelvin"/]
 idStop(((Stop)))
 
