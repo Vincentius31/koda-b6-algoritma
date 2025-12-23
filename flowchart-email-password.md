@@ -4,7 +4,7 @@ id1(("Start"))
 idEmail[/"Input: Email"/]
 idPassword[/"Input: Password"/]
 idSatuan["EmailIsi == #quot;admin@mail.com#quot;  PasswordIsi == #quot;1234#quot;"]
-id2{"Kosong"}
+id2{"Email == #quot;#quot; && Password == #quot;#quot;"}
 output1[/"Output: Email dan Password harus diisi"/]
 id3{"Email == EmailIsi; && Password == PasswordIsi"}
 output2[/"Output: Login Berhasil"/]
