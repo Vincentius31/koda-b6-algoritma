@@ -2,9 +2,9 @@
 flowchart TD
     id1((Start))
     id2[/"Input: A"/]
-    id4{A % 2 == 0?}
-    id5[/Output = #quot;Bilangan Genap#quot;/]
-    id6[/Output = #quot;Bilangan Ganjil#quot;/]
+    id4{A % 2 == 0}
+    id5[/Output: #quot;Angka Bilangan Genap#quot;/]
+    id6[/Output: #quot;Angka Bilangan Ganjil#quot;/]
     id7(((Stop)))
 
 
