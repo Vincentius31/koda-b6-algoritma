@@ -3,7 +3,7 @@
 ## Algoritma ini bertugas untuk  menentukan sebuah bilangan apakah bilangan tersebut termasuk bilangan ganjil atau bilangan genap
 
 1. Mulai
-2. Buatlah sebuah variable angka yang diberi nama A
+2. Buatlah sebuah bilangan yang kita beri nama A
 3. Tentukan nilai yang akan dimasukan ke dalam A
 4. Masukan angka tersebut ke dalam A
 5. Lakukan pengecekan terhadap A dengan melakukan pembagian dengan angka 2
