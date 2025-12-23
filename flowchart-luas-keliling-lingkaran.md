@@ -9,8 +9,7 @@
     id7["Keliling Lingkaran = 2 * Phi * R"]
     id8["Luas Lingkaran = Phi * R * R"]
     id9["Keliling Lingkaran = 2 * Phi * R"]
-    id11[/"Output : Res "/]
-    id12["Res += Luas Lingkaran dan Keliling Lingkaran"]
+    id11[/"Output: Luas Lingkaran, Keliling Lingkaran "/]
     
     id14(((Stop)))
 
@@ -21,8 +20,7 @@
     id6 ----> id7
     id5 ----> id8
     id8 ----> id9
-    id7 --> id12
-    id9 --> id12
-    id12 --> id11
+    id7 ----> id11
+    id9 ----> id11
     id11 --> id14
 ```
